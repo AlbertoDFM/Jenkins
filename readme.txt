@@ -46,8 +46,7 @@ Las bases de datos soportadas son PostgreSQL, Microsoft SQL Server, Oracle y MyS
 En nuestro caso vamos a utilizar una base de datos PostgreSQL.
 
 Página de interés:
-	https://aprenderdevops.com/instalacion-de-sonarqube-con-docker/
-	https://github.com/jenkinsci/configuration-as-code-plugin/blob/master/README.md
+	https://www.digitalocean.com/community/tutorials/how-to-automate-jenkins-setup-with-docker-and-jenkins-configuration-as-code#step-4-%E2%80%94-creating-a-user
 
 
 
