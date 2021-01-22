@@ -1,0 +1,4 @@
+sonar:latest
+configuration-as-code
+job-dsl
+role-strategy
